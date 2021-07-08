@@ -8,7 +8,7 @@ int main() {
 	double hasil;
 
 	hasil = sqrt();
-	cout << "Square root of " << a << " is " << answer << endl;
+	cout << "Square root of " << a << " is " << hasil << endl;
 
 	_getch();
 	return 0;
